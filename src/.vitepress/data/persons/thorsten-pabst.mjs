@@ -1,7 +1,7 @@
 import { TeamID, definePerson } from '../..';
 
 export default definePerson({
-    avatar: 'https://www.github.com/antidodo.png',
+    avatar: '/images/persons/baeuerle-famke.jpg',
     name: 'Thorsten Pabst',
     role: 'Assistant',
     address: 'Maria-von-Linden-Straße 6, Room 10-18/A15, 72076 Tübingen',
