@@ -5,5 +5,5 @@ export default definePerson({
     name: 'Thorsten Pabst',
     role: 'Assistant',
     address: 'Maria-von-Linden-Straße 6, Room 10-18/A15, 72076 Tübingen',
-    team: TeamID.TBI
+    team: TeamID.TBI,
 });
